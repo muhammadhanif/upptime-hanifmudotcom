@@ -5,16 +5,16 @@
     "icon": "https://hanifmu.com/hanifmu-ico.png",
     "slug": "hanifmu-com",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 169,
-    "timeDay": 295,
-    "timeWeek": 162,
-    "timeMonth": 176,
-    "timeYear": 169,
+    "uptimeYear": "99.99%",
+    "time": 168,
+    "timeDay": 120,
+    "timeWeek": 153,
+    "timeMonth": 174,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-09-14": 17
     }
